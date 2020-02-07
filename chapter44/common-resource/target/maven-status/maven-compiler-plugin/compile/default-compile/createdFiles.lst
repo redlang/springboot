@@ -1,0 +1,15 @@
+com\hengyu\chapter44\resource\entity\BaseEntity.class
+com\hengyu\chapter44\resource\entity\CommonResourceTypeEntity.class
+com\hengyu\chapter44\resource\repository\CommonResourceTypeRepository.class
+com\hengyu\chapter44\mapping\annotations\ResourceMethod.class
+com\hengyu\chapter44\resource\entity\CommonResourceEntity.class
+com\hengyu\chapter44\mapping\annotations\ResourceField.class
+com\hengyu\chapter44\mapping\service\support\ResourcePushSupport.class
+com\hengyu\chapter44\mapping\enums\CommonResourceFlag.class
+com\hengyu\chapter44\mapping\utils\ReflectionUtils.class
+com\hengyu\chapter44\mapping\entity\ResourcePushEntity.class
+com\hengyu\chapter44\mapping\service\ResourcePushService.class
+com\hengyu\chapter44\resource\repository\CommonResourceRepository.class
+com\hengyu\chapter44\mapping\entity\ResourcePushItemEntity.class
+com\hengyu\chapter44\mapping\aspect\ResourceAspect.class
+com\hengyu\chapter44\resource\service\CommonResourceService.class

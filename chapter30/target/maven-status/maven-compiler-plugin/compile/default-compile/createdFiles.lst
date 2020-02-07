@@ -1,0 +1,9 @@
+com\yuqiyu\chapter30\mapper\GoodInfoMapperImpl.class
+com\yuqiyu\chapter30\jpa\GoodInfoJPA.class
+com\yuqiyu\chapter30\jpa\GoodTypeJPA.class
+com\yuqiyu\chapter30\bean\GoodTypeBean.class
+com\yuqiyu\chapter30\dto\GoodInfoDTO.class
+com\yuqiyu\chapter30\controller\GoodInfoController.class
+com\yuqiyu\chapter30\mapper\GoodInfoMapper.class
+com\yuqiyu\chapter30\bean\GoodInfoBean.class
+com\yuqiyu\chapter30\Chapter30Application.class

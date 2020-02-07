@@ -1,0 +1,15 @@
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\resource\repository\CommonResourceRepository.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\resource\repository\CommonResourceTypeRepository.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\resource\entity\BaseEntity.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\mapping\entity\ResourcePushEntity.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\resource\entity\CommonResourceEntity.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\mapping\aspect\ResourceAspect.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\mapping\annotations\ResourceMethod.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\mapping\annotations\ResourceField.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\resource\entity\CommonResourceTypeEntity.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\mapping\service\ResourcePushService.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\mapping\enums\CommonResourceFlag.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\mapping\service\support\ResourcePushSupport.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\resource\service\CommonResourceService.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\mapping\entity\ResourcePushItemEntity.java
+E:\eclipse-workspace\springboot2\common-resource\src\main\java\com\hengyu\chapter44\mapping\utils\ReflectionUtils.java

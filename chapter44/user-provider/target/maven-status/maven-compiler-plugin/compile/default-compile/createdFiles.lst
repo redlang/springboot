@@ -1,0 +1,8 @@
+com\hengyu\chapter44\controller\UserInfoController.class
+com\hengyu\chapter44\struct\UserMapStructImpl.class
+com\hengyu\chapter44\service\UserInfoService.class
+com\hengyu\chapter44\Chapter44Application.class
+com\hengyu\chapter44\entity\UserDetailDTO.class
+com\hengyu\chapter44\entity\UserInfoEntity.class
+com\hengyu\chapter44\jpa\UserInfoRepository.class
+com\hengyu\chapter44\struct\UserMapStruct.class
